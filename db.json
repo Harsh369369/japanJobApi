@@ -1,0 +1,63 @@
+[
+    {
+        "title": "Software Engineer",
+        "location": "Tokyo",
+        "tags": ["fulltime", "web developer", "frontend", "html", "css", "javascript"],
+        "salary": "$1500-$3000/day"
+    },
+    {
+        "title": "English Teacher",
+        "location": "Osaka",
+        "tags": ["fulltime", "teaching", "english", "education"],
+        "salary": "$1200-$2500/day"
+    },
+    {
+        "title": "Marketing Specialist",
+        "location": "Kyoto",
+        "tags": ["fulltime", "marketing", "digital marketing", "social media"],
+        "salary": "$1800-$3200/day"
+    },
+    {
+        "title": "Translator",
+        "location": "Hiroshima",
+        "tags": ["parttime", "translation", "language", "english", "japanese"],
+        "salary": "$800-$1500/day"
+    },
+    {
+        "title": "Graphic Designer",
+        "location": "Nagoya",
+        "tags": ["fulltime", "design", "graphic design", "adobe illustrator", "photoshop"],
+        "salary": "$1600-$2800/day"
+    },
+    {
+        "title": "Customer Service Representative",
+        "location": "Yokohama",
+        "tags": ["fulltime", "customer service", "communication", "problem solving"],
+        "salary": "$1400-$2600/day"
+    },
+    {
+        "title": "Data Analyst",
+        "location": "Sapporo",
+        "tags": ["fulltime", "data analysis", "statistics", "sql", "python"],
+        "salary": "$1700-$3000/day"
+    },
+    {
+        "title": "Chef",
+        "location": "Fukuoka",
+        "tags": ["fulltime", "culinary", "cooking", "restaurant"],
+        "salary": "$1300-$2400/day"
+    },
+    {
+        "title": "Sales Representative",
+        "location": "Kobe",
+        "tags": ["fulltime", "sales", "marketing", "negotiation"],
+        "salary": "$1500-$2700/day"
+    },
+    {
+        "title": "Human Resources Manager",
+        "location": "Sendai",
+        "tags": ["fulltime", "human resources", "recruitment", "employee relations"],
+        "salary": "$1900-$3400/day"
+    }
+]
+
